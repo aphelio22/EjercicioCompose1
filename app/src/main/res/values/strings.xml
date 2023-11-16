@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjercicioCompose1</string>
+    <string name="par1">Jetpack Compose Tutorial</string>
+    <string name="par2">"Hola qué tal este es un texto de ejemplo para la app de prueba.</string>
+    <string name="par3">Hasta luego.</string>
+</resources>
